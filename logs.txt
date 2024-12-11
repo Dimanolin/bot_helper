@@ -1,0 +1,17 @@
+2024-12-11 21:14:36,187 - message_handler: Commands filter should be list of strings (commands), unknown type supplied to the 'commands' filter list. Not able to use the supplied type.
+2024-12-11 21:23:40,839 - message_handler: Commands filter should be list of strings (commands), unknown type supplied to the 'commands' filter list. Not able to use the supplied type.
+2024-12-11 21:23:40,906 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-11 21:23:40,918 - Added job "send_daily_reminder" to job store "default"
+2024-12-11 21:23:40,918 - Scheduler started
+2024-12-11 21:25:09,141 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-11 21:25:09,141 - Added job "send_daily_reminder" to job store "default"
+2024-12-11 21:25:09,141 - Scheduler started
+2024-12-11 21:29:26,054 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-11 21:29:26,054 - Added job "send_daily_reminder" to job store "default"
+2024-12-11 21:29:26,054 - Scheduler started
+2024-12-11 21:33:28,991 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-11 21:33:29,007 - Added job "send_daily_reminder" to job store "default"
+2024-12-11 21:33:29,007 - Scheduler started
+2024-12-11 21:35:08,321 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-11 21:35:08,321 - Added job "send_daily_reminder" to job store "default"
+2024-12-11 21:35:08,321 - Scheduler started
